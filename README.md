@@ -1,11 +1,12 @@
-<h1 align="center">Hello!</h1>
-<h3 align="center">computer cience student</h3>
+<h1 align="center">Hello! Im a computer cience student</h1>
+<h3 align="center"></h3>
 
-- 🌱 I’m currently learning **python**
+💻 <strong>About Me</strong>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+I'm a passionate developer from Brazil.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Some experience with Python, C++, Godot. I'm also familiar with web development using frameworks like Flask and Django.
+
+<strong>Tecnologias e ferramentas</strong>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">  <img src="https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white">
